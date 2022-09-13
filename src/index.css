@@ -34,7 +34,7 @@ body {
   letter-spacing: 0.1em;
   background: var(--dark);
   color: var(--light);
-  font-family: 'Arial', cursive;
+  font-family: 'Arial Narrow', cursive;
 }
 
 h1,
